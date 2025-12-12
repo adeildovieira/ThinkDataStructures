@@ -66,6 +66,11 @@ public class HelloJsoup {
 //		}
 	}
 
+	private void createDocument() {
+		// TODO Auto-generated method stub
+		
+	}
+
 	private static void print(String msg, Object... args) {
 		System.out.println(String.format(msg, args));
 	}
