@@ -1,4 +1,4 @@
-Test
+Repo to study Data Structures and practice alongside with JAVA.
 
 # ThinkDataStructures
 

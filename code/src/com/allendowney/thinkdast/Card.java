@@ -146,3 +146,6 @@ public class Card implements Comparable<Card> {
         System.out.println(cards.get(51));
     }
 }
+
+sting snippet from ThinkDataStructures/code/src/com/allendowney/thinkdast/HelloJsoup.java://print("Fetching %s...", url);
+        //Document doc = Jsoup.connect(url).get();
